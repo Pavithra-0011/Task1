@@ -1,0 +1,147 @@
+.text,.txt,.txt1{
+  font-family: "Jost", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+.text{
+  margin:auto;
+}
+
+h1{
+font-size: 45px;
+font-weight: 700;
+line-height: 50px;
+letter-spacing: -0.5px;
+text-align: center;
+
+}
+h6{
+color:#557087;
+font-family: Jost;
+font-size: 20px;
+font-weight: 700;
+line-height: 30px;
+letter-spacing: 0px;
+text-align: center;
+margin-top: 20px;
+}
+.Feature1
+{
+    width: 400px;
+    height: 420px;
+    background-color: #E0E8F0;
+    padding: 6px 0px 6px 0px;
+    border-radius: 10px;
+}
+.f1{
+    color: #0045FF;
+    margin-top: 35px;
+    margin-left: 35px;
+    font-family: Jost;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 1px;
+    text-align: left;
+}
+.f2{
+    color: #FFFFFF;
+    margin-top: 35px;
+    margin-left: 35px;
+    font-family: Jost;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 1px;
+    text-align: left;
+}
+.cnt1
+{
+  height: 40px;
+  width: 300px;
+  margin-left: 35px;
+  display: flex;
+  align-items: center;
+}
+.txt
+{
+font-size: 17px;
+font-weight: 700;
+line-height: 29px;
+letter-spacing: 0px;
+text-align: left;
+margin-left: 20px;
+color: #557087;
+}
+.list,.cnt1
+{
+  margin-top: 30px;
+  margin-bottom: 25px;
+}
+.button1{
+  width: 150px;
+  height: 49px;
+  background-color:#557087;
+  margin-left: 35px;
+  color:#FFFFFF;
+  border:none;
+  border-radius: 5px;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 20px;
+  letter-spacing: 1px;
+  text-align: center;
+  font-family: "Jost", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+.Feature2
+{
+  background: #0045FF;
+  width: 400px;
+  height: 420px;
+  padding: 6px 0px 6px 0px;
+  border-radius: 10px;
+}
+.button2{
+  width: 150px;
+  height: 49px;
+  background-color:#FFFFFF;
+  margin-left: 35px; 
+  color: #0045FF;
+  border:none;
+  border-radius: 5px;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 20px;
+  letter-spacing: 1px;
+  text-align: center;
+  font-family: "Jost", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+.txt1
+{
+  font-size: 17px;
+  font-weight: 700;
+  line-height: 29px;
+  letter-spacing: 0px;
+  text-align: left;
+  margin-left: 20px;
+  color: #FFFFFF;
+}
+.wrap
+{
+  vertical-align: center;
+  align-items: center;
+  margin: auto;
+  max-width: 70%;
+}
+.body
+{
+  display: flex;
+  justify-content: space-around;
+}

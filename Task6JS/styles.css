@@ -1,0 +1,116 @@
+.body{
+    font-family: "Jost", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 1px;
+}
+.container
+{
+    max-width: 80%;
+    margin: auto;
+    color: #557087;
+    margin-top: 70px;
+}
+.options
+{
+    max-width: 100%;
+    display: flex;
+    justify-content: space-between;
+    font-family: "Jost", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 1px;
+    text-align: left;
+}
+button:hover
+{
+    color:blue;
+    font-size: 16px;
+}
+button{
+    height:50px;
+    width:100px;
+    border:none;
+    color:#557087;
+    background-color:transparent;
+    font-family: "Jost", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 1px;
+}
+.body{
+   max-width: 80%;
+   margin: auto;
+   display: flex;
+   justify-content: space-between;
+}
+.border
+{
+    max-width: 97%;
+    margin: auto;
+    height: 3px;
+    border: none;
+    background-color: #E0E8F0;
+}
+.border-in{
+    max-width: 20%;
+    height: 3px;
+    border: none;
+    background-color: #0045FF;
+}
+img{
+    width:500px;
+    height: 320px;
+}
+.text
+{
+    margin-top: 60px;
+}
+.cont{
+    width: 535px;
+    height: 550px;
+    margin-top: 60px;
+}
+p{
+    color: #557087;
+    font-family: Jost;
+    font-size: 19px;
+    font-weight: 700;
+    line-height: 38px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+.button
+{
+font-family: Jost;
+font-size: 14px;
+font-weight: 700;
+line-height: 20px;
+letter-spacing: 1px;
+text-align: center;
+font-family: "Jost", sans-serif;
+font-optical-sizing: auto;
+font-weight: <weight>;
+font-style: normal;
+font-size: 14px;
+font-weight: 700;
+line-height: 20px;
+background-color: #557087;
+width: 169px;
+height: 56px;
+color:#FFFFFF;
+margin-top:20px;
+}
+    
